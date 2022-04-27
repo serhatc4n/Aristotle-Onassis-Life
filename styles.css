@@ -1,0 +1,62 @@
+body {
+    padding: 0;
+    background-color: #EEEEEE;
+    margin-top: 33px;
+}
+
+section {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+}
+
+.top h1 {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 50px;
+}
+
+.top h2 {
+    font-size: 35px;
+    line-height: 10px;
+}
+
+.top h3 {
+    font-size: 25px;
+}
+
+.top p {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.pp {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.pp-explanation {
+    border-radius: 50%;
+}
+
+.life {
+    font-family: 'Baloo 2', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+}
+
+footer {
+    text-align: center;
+    text-decoration: none;
+}
+
+footer a {
+    text-decoration: none;
+}
+
